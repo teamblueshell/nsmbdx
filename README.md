@@ -20,7 +20,7 @@ Welcome to the official repository for **New Super Mario Bros. DELUXE**. This pr
 
 ## 🚧 Development Status
 
-**⚠️ Extremely Early Stage**
+**⚠️ Early Stage (Basic Movement)**
 
 This project is currently in the very early stages of development. There is no playable build publicly available just yet. All future updates, release announcements will be shared right here on this page.
 
