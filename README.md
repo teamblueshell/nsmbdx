@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/teamblueshell/nsmbdx/refs/heads/main/nsmbdxlogo.png" alt="New Super Mario Bros. DELUXE Logo" width="500">
+  <img src="https://raw.githubusercontent.com/teamblueshell/nsmbdx/refs/heads/main/logo.png" alt="New Super Mario Bros. DELUXE Logo" width="500">
 </div>
 
 # New Super Mario Bros. DELUXE
